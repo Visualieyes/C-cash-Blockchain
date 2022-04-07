@@ -2,7 +2,7 @@
  *  BlockChain ADT : private implementation / algorithms
  *
  *  COMP220: Assignment 3
- *  Author:
+ *  Author:  KEYANN AL-KHEDER
  *  Date:    Feb. 1, 2018
  */
 
